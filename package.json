@@ -1,0 +1,27 @@
+{
+  "name": "jest-js-testingbot-example",
+  "version": "1.0.0",
+  "author": "TestingBot",
+  "license": "MIT",
+  "description": "Selenium examples using JestJS and TestingBot",
+  "keywords": [
+    "testingbot",
+    "selenium",
+    "webdriver",
+    "jest",
+    "jestjs"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/testingbot/jest-js-testingbot-example"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.24.0"
+  }
+}
